@@ -13,6 +13,7 @@
 <a href= "https://github.com/Serjancai"> meu github </a> <br> 
 <a href= "https://twitter.com/Caioadornocamp1"> meu twitter  </a> <br>
 <a href= "https://www.twitch.tv/serjancai"> minha twitch </a> <br> 
+ <h2>  clique para ir para a  <a href="https://github.com/"> página inicial do github </a> <br> </h2>
 
 
 
